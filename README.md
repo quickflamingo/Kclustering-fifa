@@ -138,7 +138,9 @@ fviz_cluster(res.pam.3,
 ```
 
 ![](fifa17cluster_files/figure-markdown_github/unnamed-chunk-11-1.png)
-\#\#\# Clara stand=FALSE because variables are already standardized. In
+### Clara 
+
+stand=FALSE because variables are already standardized. In
 subsets of 20.
 
 ``` r
