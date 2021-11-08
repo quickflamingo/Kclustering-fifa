@@ -14,7 +14,7 @@ library(fossil)
 
 Load FIFA 17 Data load(\~/fifa.RData)
 
-Retrieve numeric variables.
+Retrieve numeric variables. In this sample the top 2000 players are extracted.
 
 ``` r
 fut<-fifa[1:2000,c(7,17,18,20,22,23,24,25,26,27,34:67)]
