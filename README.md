@@ -1,5 +1,7 @@
 ## Clustering Fifa players
 
+Clustering Fifa 17 players according to their attributes using partitional clustering.
+
 Load packages.
 
 ``` r
